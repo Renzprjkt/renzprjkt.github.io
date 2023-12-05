@@ -13,6 +13,7 @@
 	box-shadow: 0 1rem 3rem #0000004d;
 	border-radius: 0.8rem;
 	overflow: hidden;
+	
 }
 
 #mac-title {
@@ -35,6 +36,11 @@
 	border-radius: 50%;
 }
 
+#dots p {
+	text-align: center;
+	
+}
+
 #dots span:nth-child(1) {background-color: #fc5653;}
 #dots span:nth-child(2) {background-color: #33c748;}
 #dots span:nth-child(3) {background-color: #fdbc40;}
@@ -42,6 +48,7 @@
 #mac-body {
 	padding: 6rem 10rem;
 	color: white;
-
+	margin: 5%;
+	padding: 10%;
 
 }
