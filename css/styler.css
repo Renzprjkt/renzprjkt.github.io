@@ -35,11 +35,6 @@
 	border-radius: 50%;
 }
 
-#dots p {
-
-	
-}
-
 #dots span:nth-child(1) {background-color: #fc5653;}
 #dots span:nth-child(2) {background-color: #33c748;}
 #dots span:nth-child(3) {background-color: #fdbc40;}
@@ -47,7 +42,6 @@
 #mac-body {
 	padding: 6rem 10rem;
 	color: white;
-	text-align: center;
 
 
 }
