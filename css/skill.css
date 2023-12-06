@@ -141,9 +141,6 @@ body{
     .banner .content h1{
         font-size: 2em;
     }
-    .listProject{
-        grid-template-columns: repeat(2, 1fr);
-    }
    
 }
 /* mobile */
