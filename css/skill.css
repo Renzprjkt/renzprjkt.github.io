@@ -76,17 +76,22 @@ body{
     content: '';
     border-radius: 10px;
 }
-.listProject{
+.listProject {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
-    border-bottom: 1px solid #dce1e4;
     padding-bottom: 50px;
+    margin: 5%;
+}
+.listProject .name1 {
+    color: black;
+
 }
 .listProject .item{
     text-align: center;
-    box-shadow: var(--box-shadow);
     padding: 20px;
+    border: 1px solid black;
+    background: #ffffff;
 }
 .listProject .item img{
     width: 90%;
@@ -94,7 +99,7 @@ body{
 }
 .listProject .item{
     text-align: center;
-    border-radius: 10px;
+    border-radius: 20px;
     font-weight: bold;
     font-size: large;
 }
